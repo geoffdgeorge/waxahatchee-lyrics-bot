@@ -1,0 +1,13 @@
+{
+  "name": "waxahatcheeBot",
+  "version": "1.0.0",
+  "description": "A Twitter bot to post random Waxahatchee lyrics",
+  "main": "index.js",
+  "author": "Geoff George <geoffdgeorge@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0",
+    "genius-lyrics-api": "^3.0.3"
+  }
+}
